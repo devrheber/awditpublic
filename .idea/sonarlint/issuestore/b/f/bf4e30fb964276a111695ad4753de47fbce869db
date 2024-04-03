@@ -1,0 +1,27 @@
+
+HWeb:TableWithoutCaptionCheck%" Add a description to this table.(÷¦Î´
+NWeb:AvoidCommentedOutCodeCheck:"Remove this commented out code.(ùîæèøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheck(";Add either an 'id' or a 'scope' attribute to this <th> tag.(§‹Šüÿÿÿÿ
+g Web:TableHeaderHasIdOrScopeCheck)";Add either an 'id' or a 'scope' attribute to this <th> tag.(“ş
+g Web:TableHeaderHasIdOrScopeCheck*";Add either an 'id' or a 'scope' attribute to this <th> tag.(ŒŸ™¯
+l Web:TableHeaderHasIdOrScopeCheck+";Add either an 'id' or a 'scope' attribute to this <th> tag.(­Üãøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheck,";Add either an 'id' or a 'scope' attribute to this <th> tag.(×Öåµşÿÿÿÿ
+g Web:TableHeaderHasIdOrScopeCheck-";Add either an 'id' or a 'scope' attribute to this <th> tag.(³˜ª
+l Web:TableHeaderHasIdOrScopeCheckO";Add either an 'id' or a 'scope' attribute to this <th> tag.(§‹Šüÿÿÿÿ
+g Web:TableHeaderHasIdOrScopeCheckP";Add either an 'id' or a 'scope' attribute to this <th> tag.(“ş
+g Web:TableHeaderHasIdOrScopeCheckQ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ŒŸ™¯
+l Web:TableHeaderHasIdOrScopeCheckR";Add either an 'id' or a 'scope' attribute to this <th> tag.(­Üãøÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheckS";Add either an 'id' or a 'scope' attribute to this <th> tag.(×Öåµşÿÿÿÿ
+g Web:TableHeaderHasIdOrScopeCheckT";Add either an 'id' or a 'scope' attribute to this <th> tag.(³˜ª
+T	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(Ë˜ÕR
+U	php:S1131;"@Remove the useless trailing whitespaces at the end of this line.(¿ÖÀè
+Z	php:S1131@"@Remove the useless trailing whitespaces at the end of this line.(íÿøÿÿÿÿ
+Z	php:S1131E"@Remove the useless trailing whitespaces at the end of this line.(¹¹£ışÿÿÿÿ
+dphp:S103"KSplit this 244 characters long line (which is greater than 120 authorized).(‘Á§†úÿÿÿÿ
+dphp:S1035"KSplit this 121 characters long line (which is greater than 120 authorized).(„úâúÿÿÿÿ
+_php:S103;"KSplit this 144 characters long line (which is greater than 120 authorized).(¿ÖÀè
+dphp:S103<"KSplit this 201 characters long line (which is greater than 120 authorized).(œ„éôıÿÿÿÿ
+dphp:S103@"KSplit this 150 characters long line (which is greater than 120 authorized).(íÿøÿÿÿÿ
+dphp:S103A"KSplit this 203 characters long line (which is greater than 120 authorized).(šûËÿÿÿÿÿ
+dphp:S103E"KSplit this 270 characters long line (which is greater than 120 authorized).(¹¹£ışÿÿÿÿ
+3php:S113"'Add a new line at the end of this file.

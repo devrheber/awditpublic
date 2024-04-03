@@ -1,0 +1,11 @@
+
+Z	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(Ÿí´Ìùÿÿÿÿ
+P	php:S1808"6Put exactly one space after comma separated arguments.(ğÏŒ¿øÿÿÿÿ
+J	php:S1808$"6Put exactly one space after comma separated arguments.(Û¦Ï	
+K	php:S1808/"6Put exactly one space after comma separated arguments.(éà”Ë
+K	php:S18082"6Put exactly one space after comma separated arguments.(®åù”
+P	php:S18089"6Put exactly one space after comma separated arguments.(µ’ˆÛÿÿÿÿÿ
+P	php:S1808>"6Put exactly one space after comma separated arguments.(Åíãêúÿÿÿÿ
+3php:S113"'Add a new line at the end of this file.
+G	php:S1481"-Remove this unused "$comsize" local variable.(ÃÙöİıÿÿÿÿ
+3php:S125"Remove this commented out code.(ó¯ôÀ

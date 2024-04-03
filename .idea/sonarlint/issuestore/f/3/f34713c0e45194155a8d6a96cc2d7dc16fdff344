@@ -1,0 +1,27 @@
+
+Z	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(ÒÌâ–øÿÿÿÿ
+U	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(ëúŞ„
+T	php:S11311"@Remove the useless trailing whitespaces at the end of this line.(°²Ñn
+Z	php:S1131I"@Remove the useless trailing whitespaces at the end of this line.(şñÑˆşÿÿÿÿ
+Z	php:S1131Y"@Remove the useless trailing whitespaces at the end of this line.(şñÑˆşÿÿÿÿ
+dphp:S1038"KSplit this 142 characters long line (which is greater than 120 authorized).(àÿ»şÿÿÿÿÿ
+U	php:S1808D";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+b	php:S1808I"HMove this "elseif" to the same line as the previous closing curly brace.(şñÑˆşÿÿÿÿ
+U	php:S1808T";Move this open curly brace to the end of the previous line.(ÒÌâ–øÿÿÿÿ
+b	php:S1808Y"HMove this "elseif" to the same line as the previous closing curly brace.(şñÑˆşÿÿÿÿ
+d	php:S1808I"JPut one space between the closing parenthesis and the opening curly brace.(şñÑˆşÿÿÿÿ
+d	php:S1808Y"JPut one space between the closing parenthesis and the opening curly brace.(şñÑˆşÿÿÿÿ
+K	php:S1808"6Put exactly one space after comma separated arguments.(Òáºé
+K	php:S18087"6Put exactly one space after comma separated arguments.(ƒĞëŠ
+†	php:S1808="lRemove any space before comma separated arguments and put exactly one space after comma separated arguments.(Î×÷Šüÿÿÿÿ
+K	php:S1808>"6Put exactly one space after comma separated arguments.(şâèá
+P	php:S1808@"6Put exactly one space after comma separated arguments.(öô¤Éÿÿÿÿÿ
+P	php:S1808N"6Put exactly one space after comma separated arguments.(˜ñÇúÿÿÿÿ
+K	php:S1808P"6Put exactly one space after comma separated arguments.(ÄÎÁ‡
+P	php:S1808^"6Put exactly one space after comma separated arguments.(½‘Œùÿÿÿÿ
+Y	php:S1808C"DPut one space between this "if" keyword and the opening parenthesis.(‡Ş½ì
+b	php:S1808I"HPut one space between this "elseif" keyword and the opening parenthesis.(şñÑˆşÿÿÿÿ
+Y	php:S1808S"DPut one space between this "if" keyword and the opening parenthesis.(‡Ş½ì
+b	php:S1808Y"HPut one space between this "elseif" keyword and the opening parenthesis.(şñÑˆşÿÿÿÿ
+<	php:S1781"'Write this "Use" keyword in lower case.(â¯Í¥
+3php:S113"'Add a new line at the end of this file.
